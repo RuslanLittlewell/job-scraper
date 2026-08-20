@@ -46,5 +46,35 @@
     "company": "Curotec",
     "role": "Senior Front-End Engineer (ReactJS)",
     "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://jobs.workable.com/view/to3FvRgV1cavDZTUQvJ7JE/remote-senior-frontend-developer-(react-or-angular)-in-spain-at-plain-concepts",
+    "company": "Plain Concepts",
+    "role": "Senior Frontend Developer (React or Angular)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://careers.factorialhr.com/job_posting/senior-software-engineer-foundations-248454",
+    "company": "Factorial",
+    "role": "Senior Software Engineer - Foundations (React frontend)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://web3.career/senior-frontend-engineer-react-emea-kraken/7633",
+    "company": "Kraken",
+    "role": "Senior Frontend Engineer - React (EMEA)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://web3.career/senior-software-engineer-ui-react-js-chainlink-labs/37620",
+    "company": "Chainlink Labs",
+    "role": "Senior Software Engineer, UI (React.JS)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8202813002",
+    "company": "GitLab",
+    "role": "Senior Frontend Engineer, AI Engineering: Duo Chat",
+    "first_seen": "2026-08-20"
   }
 ]
