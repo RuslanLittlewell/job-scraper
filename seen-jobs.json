@@ -22,5 +22,29 @@
     "company": "LumiMeds",
     "role": "Senior / Lead Frontend Engineer (Next.js, React & Web Platforms)",
     "first_seen": "2026-08-19"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/supabase/f048dd68-63f8-4f98-9860-3d5a43c09a01",
+    "company": "Supabase",
+    "role": "Frontend Engineer (Studio/Dashboard) – EU timezone",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://posthog.com/careers/full-stack-engineer-growth",
+    "company": "PostHog",
+    "role": "Full Stack Engineer – Growth",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://curotec.recruitee.com/o/senior-full-stack-engineer-nodejsnestjsreactjs",
+    "company": "Curotec",
+    "role": "Senior Full-Stack Engineer (NodeJS/NestJS/ReactJS)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://curotec.recruitee.com/o/senior-front-end-engineer-reactjs",
+    "company": "Curotec",
+    "role": "Senior Front-End Engineer (ReactJS)",
+    "first_seen": "2026-08-20"
   }
 ]
