@@ -118,5 +118,119 @@
     "company": "Remote.com",
     "role": "Senior Frontend Engineer",
     "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://careers.spacelift.io/jobs/7097984-frontend-engineer-react-remote-europe",
+    "company": "Spacelift",
+    "role": "Frontend Engineer (React, Remote, Europe)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/stack-ai/f15559d9-4c4f-4e95-bdf5-786376d93f04",
+    "company": "StackAI",
+    "role": "Senior Frontend Engineer",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/whiskeylibrary/9d32bf12-4d81-4c8b-bfa8-862da9443b2a",
+    "company": "Whiskey Library",
+    "role": "Senior Frontend Developer (React / Next.js)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/trivelta/jobs/4031259009",
+    "company": "Trivelta",
+    "role": "Senior Frontend Software Engineer (TypeScript | React | NextJS, Remote)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/trivelta/jobs/4170694009",
+    "company": "Trivelta",
+    "role": "Senior Software Engineer (TypeScript | React | Nextjs, Remote)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/nextgenventures/jobs/4215796009",
+    "company": "NextGen Ventures",
+    "role": "Senior Full Stack Software Engineer (Python | React | TypeScript | Next.js, Remote)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/lumimeds/jobs/4355882009",
+    "company": "LumiMeds",
+    "role": "Frontend Engineer (Next.js & React, AI-Native, Remote)",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/WunderGraph/812aef9f-aa40-436f-8dc3-6a9d15c5174d",
+    "company": "WunderGraph, Inc.",
+    "role": "Senior Frontend Engineer - Remote (EMEA)",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://www.toptal.com/careers/senior-frontend-engineer",
+    "company": "Toptal",
+    "role": "Senior Frontend Engineer (Internal Tools)",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://remote.com/jobs/buffer-c1okdohv/senior-product-engineer-frontend-j1dqdp98",
+    "company": "Buffer",
+    "role": "Senior Product Engineer (Frontend)",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://boards.greenhouse.io/clickup/jobs/5377051004",
+    "company": "ClickUp",
+    "role": "Frontend Engineer - Tasks (Angular)",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://boards.greenhouse.io/clickup/jobs/5409069004",
+    "company": "ClickUp",
+    "role": "Staff Frontend Engineer - Views",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/fairmarkit/jobs/5909875004",
+    "company": "Fairmarkit",
+    "role": "Senior Frontend Engineer",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/fairmarkit/jobs/5764019004",
+    "company": "Fairmarkit",
+    "role": "Senior Frontend Engineer (Design Systems)",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7119422003",
+    "company": "Affirm",
+    "role": "Senior Software Engineer, Fullstack (Servicing International)",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799933003",
+    "company": "Affirm",
+    "role": "Senior Software Engineer, Mobile (Repayment UX, React Native)",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/focalsystems/jobs/5542061004",
+    "company": "Focal Systems",
+    "role": "Senior React Frontend Developer (Poland)",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/focalsystems/jobs/6112328004",
+    "company": "Focal Systems",
+    "role": "Full Stack Software Engineer (Python / React)",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/appfire/jobs/4722207005",
+    "company": "Appfire",
+    "role": "Senior Software Engineer - Node.js (TypeScript/React, Advanced Tables)",
+    "first_seen": "2026-08-21"
   }
 ]
