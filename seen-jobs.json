@@ -64,5 +64,17 @@
     "company": "doola",
     "role": "Front-end Engineer (React/Next.js/TypeScript)",
     "first_seen": "2026-08-22"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-react-nextjs-remote-at-trivelta-4413552895",
+    "company": "Trivelta",
+    "role": "Senior Frontend Software Engineer (TypeScript/React/Next.js)",
+    "first_seen": "2026-08-22"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/notabene/f74812b6-72ec-4034-b3b3-24ffbab85b08",
+    "company": "Notabene",
+    "role": "Senior Frontend Engineer (Svelte / React Native)",
+    "first_seen": "2026-08-22"
   }
 ]
