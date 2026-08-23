@@ -28,5 +28,23 @@
     "company": "Packlink (Auctane)",
     "role": "Senior Software Engineer (Frontend) - Remote in Spain",
     "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://himalayas.app/companies/exoticca/jobs/senior-frontend-engineer-react",
+    "company": "Exoticca",
+    "role": "Senior Frontend Engineer (React)",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://himalayas.app/companies/lodgify/jobs/senior-frontend-engineer",
+    "company": "Lodgify",
+    "role": "Senior Frontend Engineer",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://boards.greenhouse.io/cabify/jobs/4109201002",
+    "company": "Cabify",
+    "role": "Frontend Engineer",
+    "first_seen": "2026-08-23"
   }
 ]
