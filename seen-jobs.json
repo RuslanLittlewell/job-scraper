@@ -46,5 +46,35 @@
     "company": "Cabify",
     "role": "Frontend Engineer",
     "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5616246004",
+    "company": "Grafana Labs",
+    "role": "Senior Frontend Engineer - Observability | Spain | Remote",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5800028004",
+    "company": "Grafana Labs",
+    "role": "Senior Frontend Engineer - Session Replay / Grafana Cloud | Spain | Remote",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5856666004",
+    "company": "Grafana Labs",
+    "role": "Senior Frontend Engineer, Alerting | Spain | Remote",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5633892004",
+    "company": "Grafana Labs",
+    "role": "Staff Front End Engineer - Grafana K6 | Spain | Remote",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/datacamp/jobs/6698156",
+    "company": "DataCamp",
+    "role": "Senior Full Stack Engineer (JS/TypeScript) - Datalab",
+    "first_seen": "2026-08-23"
   }
 ]
