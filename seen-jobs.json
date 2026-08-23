@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5996876004",
+    "company": "ClickHouse",
+    "role": "Senior Software Engineer (TypeScript/Frontend) - AI/ML",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5973674004",
+    "company": "Grafana Labs",
+    "role": "Senior Web Developer | Spain | Remote",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/lumimeds/jobs/4205631009",
+    "company": "LumiMeds",
+    "role": "Senior Full-Stack Engineer (Node.js & Next.js, AI-Native) - Remote",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/auctane/jobs/6678030003",
+    "company": "Auctane",
+    "role": "Senior Software Engineer (Frontend) - Remote in Spain",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/packlink/jobs/6652183003",
+    "company": "Packlink (Auctane)",
+    "role": "Senior Software Engineer (Frontend) - Remote in Spain",
+    "first_seen": "2026-08-23"
+  }
+]
