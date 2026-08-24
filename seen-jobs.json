@@ -100,5 +100,23 @@
     "company": "Heyo",
     "role": "Senior React Engineer",
     "first_seen": "2026-08-24"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/deel/a7a014cc-d632-451c-af9d-b652a85539cd",
+    "company": "Deel",
+    "role": "Senior Frontend Engineer, React.js (Europe Remote)",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5597451004",
+    "company": "Grafana Labs",
+    "role": "Staff Frontend Engineer - Observability / Grafana Cloud | Spain | Remote",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8034325002",
+    "company": "GitLab",
+    "role": "Senior Frontend Engineer (Vue.js), Security Risk Management: Security Platform Management",
+    "first_seen": "2026-08-24"
   }
 ]
