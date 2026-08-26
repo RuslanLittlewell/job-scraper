@@ -484,5 +484,89 @@
     "company": "Auctane",
     "role": "Senior Software Engineer (Frontend) - Remote in Spain",
     "first_seen": "2026-08-24"
+  },
+  {
+    "url": "https://www.remocate.app/jobs/senior-frontend-react-developer",
+    "company": "Impress",
+    "role": "Senior Frontend React Developer",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "url": "https://himalayas.app/companies/fluxon/jobs/senior-frontend-engineer-8072339988",
+    "company": "Fluxon",
+    "role": "Senior Frontend Engineer",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/speednet-senior-frontend-developer-react--gdansk-javascript",
+    "company": "SPEEDNET",
+    "role": "Senior Frontend Developer (React)",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/framna-senior-frontend-developer-react--gdansk-javascript",
+    "company": "Framna",
+    "role": "Senior Frontend Developer (React)",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/link-group-senior-frontend-developer-react--gdansk-javascript",
+    "company": "Link Group",
+    "role": "Senior Frontend Developer (React)",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://himalayas.app/companies/factor-eleven/jobs/senior-frontend-engineer-react-js-europe-f-m-d",
+    "company": "Factor Eleven",
+    "role": "Senior Frontend Engineer - React.JS (Europe)",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://himalayas.app/companies/promedia-group/jobs/senior-frontend-engineer-react-typescript",
+    "company": "ProMedia Group (Routescanner)",
+    "role": "Senior Frontend Engineer (React/TypeScript)",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://himalayas.app/companies/codeminders/jobs/senior-frontend-developer-react-typescript-aws",
+    "company": "Codeminders",
+    "role": "Senior Frontend Developer (React/TypeScript/AWS)",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react",
+    "company": "Clevertech",
+    "role": "Senior Frontend Developer - Javascript React",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/air-space-intelligence-senior-frontend-software-engineer-gdansk-javascript",
+    "company": "Air Space Intelligence",
+    "role": "Senior Frontend Software Engineer",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/dcg-senior-frontend-developer-gdansk-javascript-35c0d942",
+    "company": "DCG",
+    "role": "Senior Frontend Developer",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/upvanta-sp-z-o-o--senior-frontend-developer-react-typescript-scss--gdansk-javascript",
+    "company": "Upvanta",
+    "role": "Senior Frontend Developer (React, TypeScript, SCSS)",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/code-and-pepper-senior-front-end-developer-gdansk-javascript",
+    "company": "Code and Pepper",
+    "role": "Senior Front-end Developer",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/volue-sp-z-o-o--senior-frontend-engineer-with-react-gdansk-javascript",
+    "company": "Volue",
+    "role": "Senior Frontend Engineer with React",
+    "first_seen": "2026-08-26"
   }
 ]
