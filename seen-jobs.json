@@ -52,5 +52,35 @@
     "company": "Clevertech",
     "role": "Senior Frontend Developer - Javascript React",
     "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/air-space-intelligence-senior-frontend-software-engineer-gdansk-javascript",
+    "company": "Air Space Intelligence",
+    "role": "Senior Frontend Software Engineer",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/dcg-senior-frontend-developer-gdansk-javascript-35c0d942",
+    "company": "DCG",
+    "role": "Senior Frontend Developer",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/upvanta-sp-z-o-o--senior-frontend-developer-react-typescript-scss--gdansk-javascript",
+    "company": "Upvanta",
+    "role": "Senior Frontend Developer (React, TypeScript, SCSS)",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/code-and-pepper-senior-front-end-developer-gdansk-javascript",
+    "company": "Code and Pepper",
+    "role": "Senior Front-end Developer",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "url": "https://justjoin.it/job-offer/volue-sp-z-o-o--senior-frontend-engineer-with-react-gdansk-javascript",
+    "company": "Volue",
+    "role": "Senior Frontend Engineer with React",
+    "first_seen": "2026-08-26"
   }
 ]
